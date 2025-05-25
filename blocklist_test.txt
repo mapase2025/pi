@@ -1,4 +1,4 @@
 # ------------------------------------[FILTERS]-------------------------------------
-0.0.0.0 www.ard.de
-0.0.0.0 www.tagesschau.de
-0.0.0.0 www.daserste.de
+0.0.0.0 ard.de
+0.0.0.0 tagesschau.de
+0.0.0.0 daserste.de
