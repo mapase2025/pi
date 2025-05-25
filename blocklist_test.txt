@@ -4,4 +4,3 @@
 0.0.0.0 tagesschau.de
 0.0.0.0 daserste.de
 0.0.0.0 www.ard.de
-
