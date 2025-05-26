@@ -4,3 +4,5 @@
 0.0.0.0 tagesschau.de
 0.0.0.0 daserste.de
 0.0.0.0 www.ard.de
+0.0.0.0 www.nrwbank.de
+0.0.0.0 nrwbank.de
